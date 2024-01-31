@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Chinthujan (but I go by CJ)</h1>
 
-- 🔭 I’m currently working on **[The Udemy Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)**
-- 🌱 I’m currently learning `JavaScript`
-- 📫 How to reach me: **[LinkedIn](https://ca.linkedin.com/in/chinthujann)** or **[My Website](https://chinthujan.com/)** 
+- 🔭 I’m currently working on **[The Odin Project](https://www.theodinproject.com)**
+- 🌱 I’m currently learning `JavaScript (React/Redux)`
+- 📫 How to reach me: **[LinkedIn](https://ca.linkedin.com/in/chinthujann)**
 
 ## 🛠️ My Developer Toolkit
 <div align="center">
